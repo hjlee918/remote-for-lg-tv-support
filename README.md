@@ -1,6 +1,6 @@
 # Remote for LG TV
 
-Support page for **Remote for LG TV**, a Stream Deck plugin that controls LG OLED and other LG webOS smart TVs: remote buttons, power, volume, apps, inputs, picture and sound settings, Stream Deck + dials, and a Plex® Now Playing key. Get it on the [Elgato Marketplace](https://marketplace.elgato.com/).
+Support page for **Remote for LG TV**, a Stream Deck plugin that controls LG OLED and other LG webOS smart TVs: remote buttons, power, volume, apps, inputs, picture and sound settings, Stream Deck + dials, and a Plex® Now Playing key. Get it on the [Elgato Marketplace](https://marketplace.elgato.com/product/remote-for-lg-tv-de3baa2c-e455-48ba-99e1-464f8b31d19a).
 
 ## Get help
 
